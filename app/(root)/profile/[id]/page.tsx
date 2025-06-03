@@ -4,6 +4,7 @@ import VideoCard from "@/components/VideoCard";
 
 const Page = async ({params}: ParamsWithSearch) => {
     const {id} = await params;
+    console.log(id);
 
     return (
         <div className="wrapper page">
