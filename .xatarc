@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://nasih-cp-s-workspace-rklmve.eu-west-1.xata.sh/db/nas_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

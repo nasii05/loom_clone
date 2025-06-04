@@ -16,7 +16,6 @@ const Page = async ({params}: ParamsWithSearch) => {
                     <VideoCard key={card.id} {...card} />
                 ))}
             </section>
-
         </div>
     )
 }
